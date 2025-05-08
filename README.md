@@ -10,5 +10,5 @@ This is Hello World program to demonstrate a simple structure of the javascript 
 VS Code is used as the Integrated Development Environment which took advantage of "Go Live" extension to render the HTML. Javascript was used to dynamically render the interaction of HTML and CSS components. Chrome DevTool was used to view the webpage generated console responses.
 
 ## Useful Websites for this project
-- [How to add a README to your GitHub Profile]([http://url.link.goes.here](https://youtu.be/Yz52vuswhEk?si=UZqyt3Sg0ZttRaAp))
+- [How to add a README to your GitHub Profile](https://youtu.be/Yz52vuswhEk?si=UZqyt3Sg0ZttRaAp)
 - [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
